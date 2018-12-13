@@ -101,12 +101,12 @@
         <repository>
 	      <id>central</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-127-52-68.ap-south-1.compute.amazonaws.com:8082/artifactory/Amazon-Release/</url>
+	      <url>http://ec2-13-232-237-229.ap-south-1.compute.amazonaws.com:8082/artifactory/Amazon-Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>snapshot</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-127-52-68.ap-south-1.compute.amazonaws.com:8082/artifactory/Amazon-snapshot/</url>
+	      <url>http://ec2-13-232-237-229.ap-south-1.compute.amazonaws.com:8082/artifactory/Amazon-snapshot/</url>
 	    </snapshotRepository>
   </distributionManagement>
 	
