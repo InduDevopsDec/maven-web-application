@@ -97,7 +97,7 @@
 	    </snapshotRepository>
  </distributionManagement> -->
 	
-   <distributionManagement>
+   <!--distributionManagement>
         <repository>
 	      <id>central</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
@@ -108,7 +108,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://ec2-13-232-237-229.ap-south-1.compute.amazonaws.com:8082/artifactory/test-snapshot/</url>
 	    </snapshotRepository>
-  </distributionManagement>
+  </distributionManagement> -->
 	
 	<build>
 		<finalName>maven-web-application</finalName>
